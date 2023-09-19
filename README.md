@@ -1,18 +1,34 @@
+```markdown
+# Shopping Cart
+
+Welcome to the Shopping Cart project! This simple Java application allows you to manage a shopping cart. You can add items, remove items, view the items in the cart, and calculate the total value of your shopping.
+
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+To get started with this project, you can clone the repository to your local machine using the following command:
 
-## Folder Structure
+```bash
+git clone https://github.com/Joao-Pereira013/Java-ShoppingCart.git
+```
 
-The workspace contains two folders by default, where:
+### Prerequisites
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Java Development Kit (JDK) installed on your system.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+### Features
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- **Add Item**: You can add items to the shopping cart by providing item details such as name, price, and quantity.
 
-## Dependency Management
+- **Remove Item**: You can remove items from the cart by specifying the item's name.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- **Show Items**: You can view the items currently in the shopping cart.
+
+- **Calculate Total Value**: The application can calculate the total value of all items in the cart, considering their prices and quantities.
+
+- GitHub: [Joao-Pereira013](https://github.com/Joao-Pereira013)
+
+Thank you for using the Shopping Cart application!
+
+```
+
+You can copy and paste this Markdown content into a `README.md` file in your project's repository. Make sure to update the contact information and any additional details as needed for your project.
